@@ -41,8 +41,8 @@ This will compile your project and run all the JUnit tests in the project.
 
 ## Important links:
 
-https://junit.org/junit5/docs/current/api
+[Javadoc](https://junit.org/junit5/docs/current/api)
 
-https://junit.org/junit5/docs/current/user-guide
+[User Guide](https://junit.org/junit5/docs/current/user-guide)
 
 
